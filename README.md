@@ -7,6 +7,13 @@
 `Firebase`
 
 
+## VIEW DEMO - 
+
+
+
+https://github.com/rolikaagarwal/netflix-clone/assets/81984963/4953f1d9-f292-4ae2-b95a-d504f762cb9f
+
+
 
 ## Project Initialization
 
