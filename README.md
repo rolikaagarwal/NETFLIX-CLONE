@@ -13,7 +13,11 @@
 
 https://github.com/rolikaagarwal/netflix-clone/assets/81984963/4953f1d9-f292-4ae2-b95a-d504f762cb9f
 
+## What I learned Through this Project- 
 
+- React Component Structure: Building a Netflix clone using React helped me understand how to break down the user interface into smaller, reusable components. This allowed me to better organize my code and improve maintainability.
+
+- State Management with React: Developing the Netflix clone enhanced my understanding of managing state in a React application. I learned how to handle and update state using React's built-in state management with hooks
 
 ## Project Initialization
 
